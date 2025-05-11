@@ -231,6 +231,6 @@ hide_st_style = """
             footer {visibility: hidden;}
             header {visibility: hidden;}
             </style>
-              Design and Developed by Japanjot Singh 
+              Design and Developed by Kirpa Bajaj and Yatharth Chauahan
             """
 st.markdown(hide_st_style , unsafe_allow_html=True)
